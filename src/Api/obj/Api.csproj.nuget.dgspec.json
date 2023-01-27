@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Admin\\Desktop\\Services App\\src\\Api\\Api.csproj": {}
+    "C:\\Users\\Admin\\Desktop\\ServicesApp\\src\\Api\\Api.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Admin\\Desktop\\Services App\\src\\Api\\Api.csproj": {
+    "C:\\Users\\Admin\\Desktop\\ServicesApp\\src\\Api\\Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Admin\\Desktop\\Services App\\src\\Api\\Api.csproj",
+        "projectUniqueName": "C:\\Users\\Admin\\Desktop\\ServicesApp\\src\\Api\\Api.csproj",
         "projectName": "Api",
-        "projectPath": "C:\\Users\\Admin\\Desktop\\Services App\\src\\Api\\Api.csproj",
+        "projectPath": "C:\\Users\\Admin\\Desktop\\ServicesApp\\src\\Api\\Api.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Admin\\Desktop\\Services App\\src\\Api\\obj\\",
+        "outputPath": "C:\\Users\\Admin\\Desktop\\ServicesApp\\src\\Api\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -31,11 +31,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\Admin\\Desktop\\Services App\\src\\Infrastructure\\Infrastructure.csproj": {
-                "projectPath": "C:\\Users\\Admin\\Desktop\\Services App\\src\\Infrastructure\\Infrastructure.csproj"
+              "C:\\Users\\Admin\\Desktop\\ServicesApp\\src\\Infrastructure\\Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\Admin\\Desktop\\ServicesApp\\src\\Infrastructure\\Infrastructure.csproj"
               },
-              "C:\\Users\\Admin\\Desktop\\Services App\\src\\Services\\Services.csproj": {
-                "projectPath": "C:\\Users\\Admin\\Desktop\\Services App\\src\\Services\\Services.csproj"
+              "C:\\Users\\Admin\\Desktop\\ServicesApp\\src\\Services\\Services.csproj": {
+                "projectPath": "C:\\Users\\Admin\\Desktop\\ServicesApp\\src\\Services\\Services.csproj"
               }
             }
           }
@@ -91,14 +91,14 @@
         }
       }
     },
-    "C:\\Users\\Admin\\Desktop\\Services App\\src\\Domain\\Domain.csproj": {
+    "C:\\Users\\Admin\\Desktop\\ServicesApp\\src\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Admin\\Desktop\\Services App\\src\\Domain\\Domain.csproj",
+        "projectUniqueName": "C:\\Users\\Admin\\Desktop\\ServicesApp\\src\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "C:\\Users\\Admin\\Desktop\\Services App\\src\\Domain\\Domain.csproj",
+        "projectPath": "C:\\Users\\Admin\\Desktop\\ServicesApp\\src\\Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Admin\\Desktop\\Services App\\src\\Domain\\obj\\",
+        "outputPath": "C:\\Users\\Admin\\Desktop\\ServicesApp\\src\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -148,14 +148,14 @@
         }
       }
     },
-    "C:\\Users\\Admin\\Desktop\\Services App\\src\\Infrastructure\\Infrastructure.csproj": {
+    "C:\\Users\\Admin\\Desktop\\ServicesApp\\src\\Infrastructure\\Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Admin\\Desktop\\Services App\\src\\Infrastructure\\Infrastructure.csproj",
+        "projectUniqueName": "C:\\Users\\Admin\\Desktop\\ServicesApp\\src\\Infrastructure\\Infrastructure.csproj",
         "projectName": "Infrastructure",
-        "projectPath": "C:\\Users\\Admin\\Desktop\\Services App\\src\\Infrastructure\\Infrastructure.csproj",
+        "projectPath": "C:\\Users\\Admin\\Desktop\\ServicesApp\\src\\Infrastructure\\Infrastructure.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Admin\\Desktop\\Services App\\src\\Infrastructure\\obj\\",
+        "outputPath": "C:\\Users\\Admin\\Desktop\\ServicesApp\\src\\Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -175,8 +175,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\Admin\\Desktop\\Services App\\src\\Domain\\Domain.csproj": {
-                "projectPath": "C:\\Users\\Admin\\Desktop\\Services App\\src\\Domain\\Domain.csproj"
+              "C:\\Users\\Admin\\Desktop\\ServicesApp\\src\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Users\\Admin\\Desktop\\ServicesApp\\src\\Domain\\Domain.csproj"
               }
             }
           }
@@ -231,14 +231,14 @@
         }
       }
     },
-    "C:\\Users\\Admin\\Desktop\\Services App\\src\\Services\\Services.csproj": {
+    "C:\\Users\\Admin\\Desktop\\ServicesApp\\src\\Services\\Services.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Admin\\Desktop\\Services App\\src\\Services\\Services.csproj",
+        "projectUniqueName": "C:\\Users\\Admin\\Desktop\\ServicesApp\\src\\Services\\Services.csproj",
         "projectName": "Services",
-        "projectPath": "C:\\Users\\Admin\\Desktop\\Services App\\src\\Services\\Services.csproj",
+        "projectPath": "C:\\Users\\Admin\\Desktop\\ServicesApp\\src\\Services\\Services.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Admin\\Desktop\\Services App\\src\\Services\\obj\\",
+        "outputPath": "C:\\Users\\Admin\\Desktop\\ServicesApp\\src\\Services\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -258,8 +258,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\Admin\\Desktop\\Services App\\src\\Infrastructure\\Infrastructure.csproj": {
-                "projectPath": "C:\\Users\\Admin\\Desktop\\Services App\\src\\Infrastructure\\Infrastructure.csproj"
+              "C:\\Users\\Admin\\Desktop\\ServicesApp\\src\\Infrastructure\\Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\Admin\\Desktop\\ServicesApp\\src\\Infrastructure\\Infrastructure.csproj"
               }
             }
           }

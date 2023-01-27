@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Lq4GfEIU8Ybi+7Ub7ENMpMUyU+DZxfhUL7QmYMa+ob1roGz2tgSii4VdWh3nugp5SahLiLSnegv+pPIxCmuXOA==",
+  "dgSpecHash": "hdKPoDZGH6XKLbDVp+IL1T1Bo5eBR2QI2ybWfeMsJawIu9mTmkibr68XLvA4dGIqp81NMMXRJYk4RdxCdLNc1w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Admin\\Desktop\\Services App\\src\\Domain\\Domain.csproj",
+  "projectFilePath": "C:\\Users\\Admin\\Desktop\\ServicesApp\\src\\Domain\\Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
